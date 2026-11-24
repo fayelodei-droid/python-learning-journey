@@ -83,6 +83,3 @@ This is an educational portfolio project, not a production deployment. The suppl
 - Add further timezone cases and input-schema tests.
 - Use pytest and a larger realistic dataset.
 
-## Location in learning journey
-
-This project is part of the `python-learning-journey` repository at `python-core/dst-event-pipeline/`. The dedicated CI workflow lives at `.github/workflows/dst-event-pipeline-tests.yml` in the repository root.
