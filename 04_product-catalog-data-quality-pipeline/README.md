@@ -1,9 +1,5 @@
 # Product Catalog Data Quality Pipeline
 
-**Python Core · Lesson 4 · String Methods · Final exercise (6/6)**
-
-A small, dependency-free Python project for cleaning a supplier product catalog before data analysis or machine learning. Built from a student solution, with automated assertions and documentation added for GitHub readiness.
-
 ## Problem
 
 Product names are often inconsistently formatted (`APPLE_IPHONE_16_PRO` vs. `apple  iphone  16  pro`). Without normalization, equivalent products may be counted separately. Blank or missing names also require validation.
