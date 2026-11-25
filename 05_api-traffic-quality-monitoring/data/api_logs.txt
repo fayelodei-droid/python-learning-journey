@@ -1,0 +1,12 @@
+GET /api/users 200 120
+POST /api/orders 201 350
+GET /api/products 200 180
+DELETE /api/users/42 500 900
+GET /api/stats 200 250
+PATCH /api/users/42 503 1200
+GET /api/search 200 160
+INVALID_LOG
+POST /api/orders 201
+GET /api/users abc 100
+GET /api/users 200 -50
+GET /wrong/path 200 100
